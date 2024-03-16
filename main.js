@@ -1,8 +1,8 @@
 window.OneSignal = window.OneSignal || [];
 OneSignal.push(function() {
     OneSignal.init({
-        appId: "93a131ba-c403-4f57-9319-170258e7540e",
-        safari_web_id: "web.onesignal.auto.3e92607c-8739-4c7c-a9d2-0fad99546ed2",
+        appId: "cec889d8-967b-46a4-93e3-f9a2be2ba245",
+        safari_web_id: "web.onesignal.auto.0818a4e7-118f-4fc1-b0e2-07892e811a2a",
         welcomeNotification: {
             message: 'Hore, notifikasi untuk Kuramanime sudah aktif!'
         },
